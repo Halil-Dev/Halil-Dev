@@ -40,6 +40,10 @@
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 
 ---
