@@ -11,6 +11,12 @@
 - 🎯 Hedefim: Freelancer olarak projeler geliştirip finansal özgürlük kazanmak.
 
 ---
+### 🚧 Üzerinde Çalıştığım Projeler
+
+- 🧱 **Pixel Dungeon Clone** – Java + LibGDX kullanarak roguelike tarzı 2D bir oyun geliştiriyorum.  
+- 📦 Yakında paylaşacağım açık kaynak projelerim burada olacak...
+
+---
 
 ### 🛠️ Kullandığım Teknolojiler
 
@@ -25,9 +31,10 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HalilUysal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalilUysal&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
@@ -36,8 +43,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/_halil_uysal_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-uysal-64a383356)
 
-
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HalilUysal&label=Ziyaretçi&color=blue&style=flat-square" alt="visitor badge"/>
+</p>
+
+---
 > "Kod yazmak sanattır, her satırı seni yansıtır."
 
