@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👽 Merhaba, ben <span style="color:#39FF14">Halil</span></h1>
+<p align="center">🎓 Yazılım Mühendisliği Öğrencisi | 🎮 Java ile Oyun Geliştirici | 🧠 Freelancer Adayı</p>
 
-<!--
-**Halil-Dev/Halil-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/eLZH1XFK0pECz0s25T/giphy.gif" alt="Matrix Code" width="600" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 Hakkımda
+```java
+public class Halil {
+    String title = "Yazılım Mühendisliği Öğrencisi";
+    String focus = "Java & Oyun Geliştirme";
+    String mission = "Özgür yazılım ruhuyla para kazanmak";
+    
+    void learn() {
+        System.out.println("Her gün yeni bir şey öğreniyorum.");
+    }
+    
+    void build() {
+        System.out.println("Projeler geliştiriyorum...");
+    }
+}
