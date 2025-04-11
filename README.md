@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Java+ile+oyun+geliştiriyorum...;Yeni+teknolojiler+öğreniyorum...;Matrix'ten+kaçamazsın..." alt="Typing SVG" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" style="width: 100%;"/>
+
 
 ### 💫 Hakkımda
 - 🎓 Şu anda yazılım mühendisliği öğrencisiyim.  
