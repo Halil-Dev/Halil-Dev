@@ -31,8 +31,8 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HalilUysal&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalilUysal&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical" />
 </p>
 
 
