@@ -49,6 +49,5 @@
   <img src="https://komarev.com/ghpvc/?username=HalilUysal&label=Ziyaretçi&color=blue&style=flat-square" alt="visitor badge"/>
 </p>
 
----
 > "Kod yazmak sanattır, her satırı seni yansıtır."
 
