@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" style="width: 100%;"/>
 
 ### 📈 GitHub İstatistiklerim
 
@@ -42,7 +42,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" style="width: 100%;"/>
+---
 
 ## Social
 [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:scannerhalil@gmail.com)
