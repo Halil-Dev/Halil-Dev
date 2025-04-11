@@ -1,15 +1,14 @@
 <h1 align="center">👽 Merhaba, ben <span style="color:#39FF14">Halil</span></h1>
 <p align="center">🎓 Yazılım Mühendisliği Öğrencisi | 🎮 Java ile Oyun Geliştirici | 🧠 Freelancer Adayı</p>
 
+<!-- Matrix background effect -->
 <p align="center">
-  <img src="https://media.giphy.com/media/eLZH1XFK0pECz0s25T/giphy.gif" alt="Matrix Code" width="600" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="300px"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Wake+up%2C+dev...;Follow+the+white+rabbit...;Java+awaits+you..." alt="Matrix Intro" />
 </p>
-
----
 
 <pre>
 <code>
@@ -51,8 +50,9 @@ public class Halil {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical" width="300"/>
 </p>
 
+<!-- Another matrix background section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="300px"/>
 </p>
 
 <pre><code>
