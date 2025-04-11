@@ -1,7 +1,11 @@
-<h1 align="center">Merhaba, ben [Adın]! 👋</h1>
+<h1 align="center">Merhaba, ben Halil! 👋</h1>
 <p align="center">🎓 Yazılım Mühendisliği Öğrencisi | 🎮 Oyun Geliştirici | 💻 Java Aşığı</p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Java+ile+oyun+geliştiriyorum...;Yeni+teknolojiler+öğreniyorum...;Matrix'ten+kaçamazsın..." alt="Typing SVG" />
+</p>
+
 
 ### 💫 Hakkımda
 - 🎓 Şu anda yazılım mühendisliği öğrencisiyim.  
@@ -31,23 +35,25 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=radical" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical" />
 </p>
+
 
 
 ---
 
 ## Social
-[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](scannerhalil@gmail.com) 
+[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:scannerhalil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-uysal-64a383356)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/_halil_uysal_) 
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HalilUysal&label=Ziyaretçi&color=blue&style=flat-square" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Halil-Dev&label=Ziyaretçi+Sayısı&style=flat-square&color=brightgreen" />
 </p>
+
 
 > "Kod yazmak sanattır, her satırı seni yansıtır."
 
