@@ -41,8 +41,8 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=radical" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
