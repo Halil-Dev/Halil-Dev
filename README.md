@@ -2,7 +2,7 @@
 <p align="center">🎓 Yazılım Mühendisliği Öğrencisi | 🛡️ Siber Güvenlik Meraklısı | 💻 Full-stack Geliştirici</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-stack+projeler+geliştiriyorum...;Siber+Vatan+ile+kendimi+eğitiyorum...;Yeni+teknolojiler+öğreniyorum...;Matrix'ten+kaçamazsın..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cyber+Vatan+Trainee;Full-stack+Developer;System+Architect+in+Progress..." alt="Halil's Typing SVG" />
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=radical&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Halil-Dev&show_icons=true&theme=dark&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Dev&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
